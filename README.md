@@ -1,3 +1,1 @@
-# HealthCare-v2
-
-HTML, CSS, JavaScript, Flask
+# Healthcare-Project
