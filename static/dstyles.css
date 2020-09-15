@@ -330,14 +330,14 @@ hr {
   margin: 10px;
 }
 
-.row label{
+.imgUp label{
   display: block;
   margin: 2px 555px 36px;
   font-size: 1.5rem;
   color: #68b0ab;
 }
 
-.row input{
+.imgUp input{
   display: block;
   margin: 0 580px;
 }
