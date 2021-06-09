@@ -27,11 +27,19 @@ Deep Learning - CNN, ResNet50, VGG19
 Heroku Cloud for deployment
 
 Sources for dataset
+
 Pneumonia - https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
 Brain Tumor - https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
+
 Malaria - https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+
 Heart Disease - https://www.kaggle.com/ronitf/heart-disease-uci
+
 Kidney - https://www.kaggle.com/mansoordaku/ckdisease
+
 Liver - https://www.kaggle.com/uciml/indian-liver-patient-records
+
 Breast Cancer - https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+
 Diabetes - https://www.kaggle.com/uciml/pima-indians-diabetes-database
